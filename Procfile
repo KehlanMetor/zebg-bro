@@ -1,0 +1,1 @@
+worker: Commando.js
